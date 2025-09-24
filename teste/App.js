@@ -40,8 +40,7 @@ export default function App() {
   return (
     <View style={styles.app}>
       <View>
-        <Text style={styles.texto}>NU</Text>
-        <Text style={styles.texto2}>Calculadora</Text>
+        <Text style={styles.texto}>CALC</Text>
       </View>
 
       <View style={{ alignItems: 'center', }}>
